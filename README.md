@@ -14,11 +14,6 @@ aplicar esses conceitos para analisar e melhorar o desempenho de seus aplicativo
 
 ## Dev
 
-| [<img src="https://avatars.githubusercontent.com/u/43914533?v=4" width="75px;"/>](https://github.com/julianoalvescode
-) |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                          [Juliano Alves](https://github.com/julianoalvescode
-)                                                          |
+<img src="https://avatars.githubusercontent.com/u/43914533?v=4" width="75px;"/>](https://github.com/julianoalvescode
 
-
-
+[Juliano Alves](https://github.com/julianoalvescode)                                                          |
